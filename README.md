@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thevipvaishnavi
+- 👋 Hi, I’m @thevipvaishnav
 - 👀 I’m interested in CyberSecurity, Creating Apps, Website,
 - 🙌 I'm a Computer Science Student
 - 🦋 I'm also interested in Computer Hardware, Electronics stuff, etc. 
