@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @Inn0cent_Zero
-- 👀 I’m interested in CyberSecurity, Creating Apps, Website,
-- 🙌 I'm a Computer Science Student
-- 🦋 I'm also interested in Computer Hardware, Electronics stuff, etc. 
-- 🌱 I’m currently learning Advanced R programming, Image and Video Analytics, Anonymous Authentication
-- 💞️ I’m looking to collaborate on Anonymous Authenication, Cyber Security Stuff,
-- 📫 How to reach me : Just DM me or pull request (Note: Only for Project Support, Discussion, Collaboration)
+# Hi, I'm Vaish 👋
 
-<!---
-thevipvaishnav/thevipvaishnav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m learning how to **turn my ideas, projects, and learnings** into a GitHub portfolio that truly represents me.  
+My focus right now is on:
+- 📚 Sharpening my coding skills
+- 🔐 Exploring cybersecurity & ethical hacking tools
+- 🛠 Building small but meaningful projects
+- 📂 Documenting everything here so others can learn too
+
+💡 My goal: To grow this profile into a space that shows not just my code, but my **progress**.
